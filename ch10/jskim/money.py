@@ -49,7 +49,6 @@ class testCurrency(unittest.TestCase):
 
         self.assertEqual("CHF", Money.franc(1).currency())
 
-
 class testEquality(unittest.TestCase):
     
     def testEquality(self):
