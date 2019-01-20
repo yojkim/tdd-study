@@ -17,3 +17,7 @@ out/*
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+
+### Python ###
+__pycache__/
+__pycache__/*
